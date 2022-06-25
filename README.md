@@ -1,2 +1,2 @@
 # pokemon_pythonGUI
-To excute run menu.py
+To excute this. Run menu.py
